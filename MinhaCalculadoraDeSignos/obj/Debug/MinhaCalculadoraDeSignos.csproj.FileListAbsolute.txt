@@ -1,0 +1,7 @@
+C:\Users\gislaine\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe.config
+C:\Users\gislaine\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe
+C:\Users\gislaine\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.pdb
+C:\Users\gislaine\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csprojAssemblyReference.cache
+C:\Users\gislaine\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csproj.CoreCompileInputs.cache
+C:\Users\gislaine\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.exe
+C:\Users\gislaine\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.pdb
